@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 May 2021 14:54:49 at http://www.webstrot.com/html/webstrotadmin/bootstrap3/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.webstrot.com/html/webstrotadmin/bootstrap3/default/index.html -O1 "C:\Users\Umer\Desktop\Abhilash 2 Admin Panel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:54:51	Warning: 	Note: due to www.webstrot.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:04:52	Warning: 	Retry after error -4 (Incorrect length (389889 Bytes, 460686 expected)) at link www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/images/user-female.png (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/index.html)
+15:04:53	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/lib/owl.video.play.png (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/lib/owl.carousel.min.css)
+15:04:53	Warning: 	Retry after error -4 (No data (connection closed)) at link michaeltruong.ca/images/logo1.png (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/style.css)
+15:04:54	Warning: 	Retry after error -4 (No data (connection closed)) at link michaeltruong.ca/images/client.jpg (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/style.css)
+15:04:54	Warning: 	Retry after error -4 (Incorrect length (236248 Bytes, 326997 expected)) at link www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/images/product.jpg (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/index-ecommerce.html)
+15:04:54	Warning: 	Retry after error -4 (Incorrect length (408785 Bytes, 552237 expected)) at link www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/images/product_1/image-8-226x223.jpg (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/restaurant-menu-two.html)
+15:04:54	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/lib/Unix.css (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/app-email.html)
+15:04:54	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/js/lib/jquery.nicescroll.min.js (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/app-email.html)
+15:04:55	Warning: 	Retry after error -4 (Incorrect length (111031 Bytes, 425988 expected)) at link www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/js/lib/rangeSlider/moment-with-locales.js (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/uc-range-slider-advance.html)
+15:04:55	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/lib/datatable/dataTables.bootstrap.min.css (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/table-data.html)
+15:04:55	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/lib/datatable/buttons.bootstrap.min.css (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/table-data.html)
+15:04:55	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/js/lib/data-table/buttons.dataTables.min.js (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/table-export.html)
+15:04:55	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/js/lib/data-table/dataTables.bootstrap.min.js (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/table-row-select.html)
+15:04:55	Error: 	"Not Found" (404) at link webstrot.com/html/webstrotadmin/bootstrap3/default/assets/js/lib/data-table/buttons.bootstrap.min.js (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/table-row-select.html)
+15:04:58	Warning: 	Retry after error -4 (No data (connection closed)) at link michaeltruong.ca/images/logo1.png (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/style.css)
+15:04:58	Warning: 	Retry after error -4 (No data (connection closed)) at link michaeltruong.ca/images/client.jpg (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/style.css)
+15:05:36	Warning: 	Retry after error -4 (Incorrect length (253530 Bytes, 460686 expected)) at link www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/images/user-female.png (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/images/user-female.png)
+15:05:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link michaeltruong.ca/images/logo1.png (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/style.css)
+15:05:36	Error: 	"No data (connection closed)" (-4) after 2 retries at link michaeltruong.ca/images/client.jpg (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/css/style.css)
+15:05:36	Warning: 	Retry after error -4 (Incorrect length (232781 Bytes, 326997 expected)) at link www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/images/product.jpg (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/images/product.jpg)
+15:05:51	Warning: 	Retry after error -4 (Incorrect length (265820 Bytes, 425988 expected)) at link www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/js/lib/rangeSlider/moment-with-locales.js (from www.webstrot.com/html/webstrotadmin/bootstrap3/default/assets/js/lib/rangeSlider/moment-with-locales.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 50 seconds : 314 links scanned, 285 files written (17549721 bytes overall) [16556512 bytes received at 23319 bytes/sec], 4756739 bytes transferred using HTTP compression in 94 files, ratio 16%
+(10 errors, 12 warnings, 0 messages)
